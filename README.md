@@ -2,8 +2,6 @@
 
 Uma versão simplificada do GarticBot do Discord para o Whatsapp.
 
-Uma maneira jeito de diferenciar seu grupo
-
 ## BAILEYS API
 
 LurticBot usa a API [Baileys](https://github.com/adiwajshing/Baileys), para autenticação no whatsapp
